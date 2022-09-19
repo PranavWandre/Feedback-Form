@@ -1,0 +1,130 @@
+#parent{
+background-image: url(./mfeedback-2463927_1920.jpg);
+ color: white;
+  text-align: center;
+ border: 2px solid rgb(173, 28, 28);
+ height: 660px;
+}
+#child{
+border: 1px solid rgb(219, 168, 168);
+text-align: left;
+height: 590px;
+width: 1000px;
+margin-left: 200px;
+background-color: black;
+}
+#FEEDBACK{
+    margin-top: 10px;
+    font-size: x-large;
+}
+.Lradio{
+    margin-left: 182px;
+    height: 18px;
+    width: 18px;
+}
+.Rradio{
+    margin-left: 100px;
+    
+}
+#Good{
+    margin-left: 289px;
+}
+#Average{
+    margin-left: 268px;
+}
+#Fair{
+    margin-left: 294px;
+}
+#Poor{
+    margin-left: 260px;
+    
+}
+#YourQueries{
+    height: 90px;
+    width: 700px;
+    background: transparent;
+    outline: none;
+    border: 1px solid white;
+    margin-left: 23px;
+}
+
+.input{
+    margin-top: 20px;
+    height: 30px;
+    background: transparent;
+    outline: none;
+    color: white;
+    border: 1px solid;
+    width: 200px;
+}
+
+#RESET
+{
+  background-color: orange;
+  color: white;
+  height: 30px;
+  width: 150px;
+}
+#SUBMIT{
+    background-color: orange;
+    color: white;
+    height: 30px;
+    width: 150px;
+    margin-left: 182px;
+
+}
+#feedback{
+    font-size: x-small;
+}
+.left{
+    margin-left: 30px;
+}
+::placeholder{
+    color: white;
+}
+#Customer{
+    margin-left:40px;
+}
+#email{
+    margin-left:50px;
+}
+#Organization{
+    margin-left:60px;
+}
+#Products{
+    margin-left:40px;
+}
+#Support{
+    margin-left:225px;
+}
+#VeryGood{
+    margin-left:45px;
+    height: 18px;
+    width: 18px;
+}
+#Good{
+    margin-left:446px;
+    height: 18px;
+    width: 18px;
+}
+#Average{
+    margin-left:424px;
+    height: 18px;
+    width: 18px;
+}
+#Fair{
+    margin-left:450px;
+    height: 18px;
+    width: 18px;
+}
+#Poor{
+    margin-left:416px;
+    height: 18px;
+    width: 18px;
+    
+   
+}
+#VeryHigh{
+    height: 18px;
+    width: 18px;
+}
